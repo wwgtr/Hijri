@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">هجري</string>
+    <string name="prayer_times">أوقات الصلاة</string>
+    <string name="quran">القرآن الكريم</string>
+    <string name="islamic_knowledge">المعارف الإسلامية</string>
+    <string name="jurisprudence">الفقه الإسلامي</string>
+    <string name="fajr">الفجر</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+    <string name="settings">الإعدادات</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="enable_prayer_notifications">تفعيل إشعارات الصلاة</string>
+    <string name="enable_alarm">تفعيل المنبه</string>
+    <string name="alarm_time">وقت المنبه</string>
+</resources>

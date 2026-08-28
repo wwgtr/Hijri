@@ -59,6 +59,7 @@ dependencies {
     implementation("androidx.compose.material3:material3:1.1.2")
     implementation("androidx.compose.material:material-icons-extended:1.5.4")
     implementation("androidx.navigation:navigation-compose:2.7.6")
+    implementation("androidx.appcompat:appcompat:1.6.1")
 
     // Room Database
     implementation("androidx.room:room-runtime:2.6.1")
@@ -85,6 +86,9 @@ dependencies {
 
     // Location Services (for Prayer Times)
     implementation("com.google.android.gms:play-services-location:21.0.1")
+
+    // Notification
+    implementation("androidx.core:core:1.12.0")
 
     // Testing
     testImplementation("junit:junit:4.13.2")
