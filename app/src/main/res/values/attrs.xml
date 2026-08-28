@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RTL Support Attributes -->
+    <attr name="startPadding" format="dimension" />
+    <attr name="endPadding" format="dimension" />
+</resources>
