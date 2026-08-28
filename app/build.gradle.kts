@@ -90,6 +90,9 @@ dependencies {
     // Notification
     implementation("androidx.core:core:1.12.0")
 
+    // Liquid Glass Effect
+    implementation("com.github.QWEA0:Liquid-Glass-Android:1.0.0")
+
     // Testing
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
